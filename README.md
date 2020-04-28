@@ -10,6 +10,8 @@
     </embed>
 </object>
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
 Paper PDF [link](https://damiteam.github.io/Dami.github.io/INF-558%20Fall%202018%20Final.pdf)
 
 ### Team Membert
