@@ -1,13 +1,11 @@
-### Markdown
+### CSCI599 team:Dami
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Video
 
 ```markdown
-Syntax highlighted code block
+This is a video test post.
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster")
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
