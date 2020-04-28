@@ -1,7 +1,7 @@
 ### CSCI599 team:Dami
 
 ### Video
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/fgID1lcyRoE/hqdefault.jpg)](https://youtu.be/fgID1lcyRoE)
 
 ### Technical Paper
 <object data="https://damiteam.github.io/Dami.github.io/INF-558%20Fall%202018%20Final.pdf" type="application/pdf" width="700px" height="700px">
