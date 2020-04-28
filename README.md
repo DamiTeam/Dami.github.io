@@ -12,7 +12,7 @@
 
 Paper PDF [link](https://damiteam.github.io/Dami.github.io/INF-558%20Fall%202018%20Final.pdf)
 
-### Team Membert
+### Team Members
 Chien-Hao Huang [linkedin](https://www.linkedin.com/in/will-huang-0655866b/)
 
 Haichao Ma [linkedin](https://www.linkedin.com/in/haichao-ma-a00491173/)
