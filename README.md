@@ -12,7 +12,7 @@ Haichao Ma [linkedin](https://www.linkedin.com/in/haichao-ma-a00491173/)
 
 Lijie Zhao [linkedin](https://www.linkedin.com/in/lijiezhao/)
 
+Ta-Yang Wang [CV](https://sites.google.com/usc.edu/tayangwa/)
+
 Ying Cheng [linkedin](https://www.linkedin.com/in/ying-cheng-usc/)
 
-[Link](url) and ![Image](src)
-```
