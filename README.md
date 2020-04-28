@@ -8,6 +8,8 @@
 
 
 ### Team Membert
+Chien-Hao Huang [linkedin](https://www.linkedin.com/in/will-huang-0655866b/)
+
 Haichao Ma [linkedin](https://www.linkedin.com/in/haichao-ma-a00491173/)
 
 Lijie Zhao [linkedin](https://www.linkedin.com/in/lijiezhao/)
