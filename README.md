@@ -2,8 +2,7 @@
 
 ### Video
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1588054759/video_to_markdown/images/youtube--fgID1lcyRoE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fgID1lcyRoE "")
-
+![](https://res.cloudinary.com/marcomontalbano/image/upload/v1588054759/video_to_markdown/images/youtube--fgID1lcyRoE-c05b58ac6eb4c4700831b2b3070cd403.jpg)
 ### Technical Paper
 <object data="https://damiteam.github.io/Dami.github.io/INF-558%20Fall%202018%20Final.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://damiteam.github.io/Dami.github.io/INF-558%20Fall%202018%20Final.pdf">
